@@ -1,0 +1,546 @@
+[
+[
+  {
+    "id": 97956,
+    "rev": 72,
+    "fields": {
+      "System.Id": 97956,
+      "System.AreaPath": "TaxPMA\\Azure\\Documents",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2024-09-23T21:42:15.31Z",
+      "System.Title": "PROD:  Users are able to upload documents without a Workflow Metadata tag that are not Taxpayer level documents",
+      "System.BoardColumn": "Test",
+      "Custom.TargetRelease": "R14 B1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/97956"
+  },
+  {
+    "id": 100065,
+    "rev": 53,
+    "fields": {
+      "System.Id": 100065,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Deliverables",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2024-10-28T21:07:22.06Z",
+      "System.Title": "DEV/TEST/UAT/PROD: Deliverable Queries result in Error Message",
+      "System.BoardColumn": "Test",
+      "Custom.TargetRelease": "R14 B1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/100065"
+  },
+  {
+    "id": 102894,
+    "rev": 52,
+    "fields": {
+      "System.Id": 102894,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Notes and Notifications",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2024-12-16T13:45:26.74Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "Test: +New Notes button is displayed in the Notes tab of a Notes record",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/102894"
+  },
+  {
+    "id": 106086,
+    "rev": 37,
+    "fields": {
+      "System.Id": 106086,
+      "System.AreaPath": "TaxPMA\\Azure",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-01-29T15:42:41.583Z",
+      "System.Title": "\"Update New Deliverable\" Returns 500 when there is no event",
+      "System.BoardColumn": "Test",
+      "Custom.TargetRelease": "R14 B1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/106086"
+  },
+  {
+    "id": 107962,
+    "rev": 50,
+    "fields": {
+      "System.Id": 107962,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-02-10T21:31:09.467Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "PROD: Engagement Management Workflows are not Closing even if all Tasks are Completed - PRB0046089",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/107962"
+  },
+  {
+    "id": 107963,
+    "rev": 58,
+    "fields": {
+      "System.Id": 107963,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-02-10T21:31:29.847Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "PROD: Project Workflow not moving to Pending Time Entry when All Tasks are Inactive - PRB0046080",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/107963"
+  },
+  {
+    "id": 108738,
+    "rev": 58,
+    "fields": {
+      "System.Id": 108738,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-02-18T18:46:53.02Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "PROD: Save & Close button is not working as intended on 2024 Rolledforward Workflows - PRB0046103",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/108738"
+  },
+  {
+    "id": 109493,
+    "rev": 58,
+    "fields": {
+      "System.Id": 109493,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Integrations\\BEAP",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-01T04:47:19.043Z",
+      "System.Title": "Locator in Use Error, even though no user has ever opened the locator",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/109493"
+  },
+  {
+    "id": 109519,
+    "rev": 109,
+    "fields": {
+      "System.Id": 109519,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Deliverables",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-03T05:57:32.66Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "PROD: Deliverables not rolling forward when they should be - PRB0046114",
+      "System.BoardColumn": "Dev"
+    },
+    "commentVersionRef": {
+      "commentId": 6707174,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/109519/comments/6707174/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/109519"
+  },
+  {
+    "id": 110003,
+    "rev": 35,
+    "fields": {
+      "System.Id": 110003,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Security",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-06T18:06:33.33Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "Inactive/Unsaved System User Record with Active Bookable Resource Record",
+      "System.BoardColumn": "Dev"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/110003"
+  },
+  {
+    "id": 110039,
+    "rev": 63,
+    "fields": {
+      "System.Id": 110039,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-07T07:59:38.647Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "PROD: Incomplete Rollforward of Workflows",
+      "System.BoardColumn": "Dev"
+    },
+    "commentVersionRef": {
+      "commentId": 6707148,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/110039/comments/6707148/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/110039"
+  },
+  {
+    "id": 110655,
+    "rev": 29,
+    "fields": {
+      "System.Id": 110655,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-03-13T18:59:47.22Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "PROD: Incomplete Rollforward of Workflows - new PA_062",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/110655"
+  },
+  {
+    "id": 111214,
+    "rev": 50,
+    "fields": {
+      "System.Id": 111214,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Documents",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-18T14:12:50.353Z",
+      "System.Title": "Grey line doesn't appear for some rows in frozen columns (Cosmetic)",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/111214"
+  },
+  {
+    "id": 111267,
+    "rev": 61,
+    "fields": {
+      "System.Id": 111267,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Security",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-18T15:28:59.493Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "PROD: Plugin failing to add users to the Client OT",
+      "System.BoardColumn": "Dev"
+    },
+    "commentVersionRef": {
+      "commentId": 6705867,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/111267/comments/6705867/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/111267"
+  },
+  {
+    "id": 111508,
+    "rev": 66,
+    "fields": {
+      "System.Id": 111508,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows\\Checklists",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-19T15:34:13.1Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "TCC MD not populating in Workflow Task on Copy & Rollforward",
+      "System.BoardColumn": "Dev"
+    },
+    "commentVersionRef": {
+      "commentId": 6694334,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/111508/comments/6694334/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/111508"
+  },
+  {
+    "id": 111913,
+    "rev": 29,
+    "fields": {
+      "System.Id": 111913,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Milestones and Tasks",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-03-24T13:47:09.45Z",
+      "System.Title": "PROD Child tasks were not created by system after Resource Management User prompted their creation in UI - PRB0046144",
+      "System.BoardColumn": "Test",
+      "Custom.TargetRelease": "5/23/25"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/111913"
+  },
+  {
+    "id": 112246,
+    "rev": 30,
+    "fields": {
+      "System.Id": 112246,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Milestones and Tasks",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-26T21:01:26.75Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "Get Rollforwarded Deliverables - Duplicate Deliverable Types",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/112246"
+  },
+  {
+    "id": 112391,
+    "rev": 42,
+    "fields": {
+      "System.Id": 112391,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Milestones and Tasks",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-03-27T17:52:48.533Z",
+      "Custom.TargetRelease": "R13 B1",
+      "System.Title": "TEST ONLY: Rename Close Task(s) Button for Tasks views to Mark Task(s) N/A",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "commentVersionRef": {
+      "commentId": 6689586,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/112391/comments/6689586/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/112391"
+  },
+  {
+    "id": 113463,
+    "rev": 48,
+    "fields": {
+      "System.Id": 113463,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows\\Checklists",
+      "System.WorkItemType": "Bug",
+      "System.State": "Closed",
+      "System.CreatedDate": "2025-04-07T18:07:38.907Z",
+      "Custom.TargetRelease": "R13.2",
+      "System.Title": "Orphaned Checklists don't delete",
+      "System.BoardColumn": "Done"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/113463"
+  },
+  {
+    "id": 113722,
+    "rev": 28,
+    "fields": {
+      "System.Id": 113722,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-04-09T14:49:01.277Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "PA_002_EngagementTeamMember_OnBookableResourceChange Failures",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/113722"
+  },
+  {
+    "id": 113736,
+    "rev": 18,
+    "fields": {
+      "System.Id": 113736,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Milestones and Tasks",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-04-09T16:27:31.92Z",
+      "Custom.TargetRelease": "R14 B3",
+      "System.Title": "Workflows not moving from Active/Pending Time Entry to Inactive/Completed - PRB0046180",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/113736"
+  },
+  {
+    "id": 113944,
+    "rev": 20,
+    "fields": {
+      "System.Id": 113944,
+      "System.AreaPath": "TaxPMA\\Azure\\Integrations\\e-File",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-04-10T21:49:23.14Z",
+      "Custom.TargetRelease": "R14 B1",
+      "System.Title": "PROD: EFA reactivating inactive Workflows - PRB0046158",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/113944"
+  },
+  {
+    "id": 113954,
+    "rev": 21,
+    "fields": {
+      "System.Id": 113954,
+      "System.AreaPath": "TaxPMA\\Azure\\Integrations\\e-File",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-04-10T22:01:52.753Z",
+      "System.Title": "PROD: Awaiting E-File Creation & Qualification - Efile Status - Integration Logger Fails with \"No Data Found\" - PRB0046166",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "commentVersionRef": {
+      "commentId": 6696130,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/113954/comments/6696130/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/113954"
+  },
+  {
+    "id": 114328,
+    "rev": 16,
+    "fields": {
+      "System.Id": 114328,
+      "System.AreaPath": "TaxPMA\\Azure\\Integrations",
+      "System.WorkItemType": "Bug",
+      "System.State": "Committed",
+      "System.CreatedDate": "2025-04-15T16:43:29.82Z",
+      "System.Title": "PROD: Extension Documents stuck in 'Pending Upload'",
+      "System.BoardColumn": "Ready to Start"
+    },
+    "commentVersionRef": {
+      "commentId": 6706535,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/114328/comments/6706535/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/114328"
+  },
+  {
+    "id": 114399,
+    "rev": 28,
+    "fields": {
+      "System.Id": 114399,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Integrations\\BEAP",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-04-16T02:50:28.177Z",
+      "Custom.TargetRelease": "R14 B1",
+      "System.Title": "PROD: Error for Push Settings on 1120 Top Con locator for FL and NJ Deliverable",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/114399"
+  },
+  {
+    "id": 114500,
+    "rev": 20,
+    "fields": {
+      "System.Id": 114500,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Documents",
+      "System.WorkItemType": "Bug",
+      "System.State": "Approved",
+      "System.CreatedDate": "2025-04-16T14:15:40.837Z",
+      "System.Title": "Documents are successfully uploaded but Sync Status is Pending Upload - PRB0046165",
+      "System.BoardColumn": "Refine (Done)"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/114500"
+  },
+  {
+    "id": 114596,
+    "rev": 14,
+    "fields": {
+      "System.Id": 114596,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Closed",
+      "System.CreatedDate": "2025-04-17T14:26:07.56Z",
+      "Custom.TargetRelease": "R13 B1",
+      "System.Title": "Add Engagement Setup not Complete - Field to 'Inactive/Closed Workflows' View at Taxpayer Record",
+      "System.BoardColumn": "Done"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/114596"
+  },
+  {
+    "id": 115530,
+    "rev": 33,
+    "fields": {
+      "System.Id": 115530,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Milestones and Tasks",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-04-26T20:54:25.74Z",
+      "Custom.TargetRelease": "R14 B2",
+      "System.Title": "PROD - Bug 114550 Functionality not Working in PROD (N/A 'Clear Efile Rejects' causing Tasks to not Create in RF')",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/115530"
+  },
+  {
+    "id": 115532,
+    "rev": 47,
+    "fields": {
+      "System.Id": 115532,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Engagement and Workflows",
+      "System.WorkItemType": "Bug",
+      "System.State": "Closed",
+      "System.CreatedDate": "2025-04-26T21:02:30.003Z",
+      "Custom.TargetRelease": "R13.2",
+      "System.Title": "Able to add an Inactive WF Team Member Role Record as the assigned Bookable Resource for a Child Task",
+      "System.BoardColumn": "Done"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/115532"
+  },
+  {
+    "id": 115808,
+    "rev": 16,
+    "fields": {
+      "System.Id": 115808,
+      "System.AreaPath": "TaxPMA\\SharePoint\\Documents",
+      "System.WorkItemType": "Bug",
+      "System.State": "Closed",
+      "System.CreatedDate": "2025-04-29T14:30:40.35Z",
+      "System.Title": "PA_INT_SPO_003_Engagement_onCreate PA Errors - PRB0046171",
+      "System.BoardColumn": "Done",
+      "Custom.TargetRelease": "R13.1 B1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/115808"
+  },
+  {
+    "id": 116025,
+    "rev": 46,
+    "fields": {
+      "System.Id": 116025,
+      "System.AreaPath": "TaxPMA\\Azure\\Integrations\\CoreV2",
+      "System.WorkItemType": "Bug",
+      "System.State": "Closed",
+      "System.CreatedDate": "2025-04-30T16:00:40.627Z",
+      "Custom.TargetRelease": "R13.2",
+      "System.Title": "ETM Load Failures - \"Dynamics operation failed. The given key was not present in the dictionary.\" - PRB0046172",
+      "System.BoardColumn": "Done"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/116025"
+  },
+  {
+    "id": 116761,
+    "rev": 13,
+    "fields": {
+      "System.Id": 116761,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Documents",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-05-07T15:08:39.517Z",
+      "System.Title": "Document Upload failing (both UI and via API)",
+      "System.BoardColumn": "Test"
+    },
+    "commentVersionRef": {
+      "commentId": 6698434,
+      "version": 1,
+      "url": "https://dev.azure.com/bdousa/7eae99a0-a45a-42a7-bb45-c08fc8deb1c8/_apis/wit/workItems/116761/comments/6698434/versions/1"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/116761"
+  },
+  {
+    "id": 116782,
+    "rev": 8,
+    "fields": {
+      "System.Id": 116782,
+      "System.AreaPath": "TaxPMA\\Dynamics\\Reports",
+      "System.WorkItemType": "Bug",
+      "System.State": "Test",
+      "System.CreatedDate": "2025-05-07T20:01:26.397Z",
+      "System.Title": "Tax UserVerse Reports Semantic Model Refresh Failures",
+      "System.BoardColumn": "Test"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/116782"
+  },
+  {
+    "id": 116791,
+    "rev": 17,
+    "fields": {
+      "System.Id": 116791,
+      "System.AreaPath": "TaxPMA\\Azure",
+      "System.WorkItemType": "Bug",
+      "System.State": "Approved",
+      "System.CreatedDate": "2025-05-07T22:12:59.067Z",
+      "System.Title": "Awaiting E-File Creation & Qualification - Efile Status - Int Logger Failure (990 specific)",
+      "System.BoardColumn": "Refine (Done)"
+    },
+    "url": "https://dev.azure.com/bdousa/_apis/wit/workItems/116791"
+  }
+]
+]
